@@ -1,6 +1,6 @@
 ---
 title: Google Summer of Code Mentor Summit 2018
-description: VS Code 中的 Jenkinsfile 插件
+description: 2018 Google Summer of Code 导师峰会于10月12日至14日顺利举行
 author: martinda
 translator: Andrea
 ---
